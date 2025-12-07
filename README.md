@@ -1,22 +1,3 @@
-Quickstart
-* https://marketplace.visualstudio.com/items?itemName=Dedsec727.jekyll-run
-* https://jekyllrb.com/docs/
-* https://jekyllrb.com/docs/step-by-step/01-setup/
-* https://github.com/jekyll/jekyll/issues/9231
-
-https://stackoverflow.com/questions/47046746/jekyll-serve-error-cant-find-gem-jekyll-0-a-gemgemnotfoundexception
-
-* bundle update
-* bundle install
-
-* https://mmistakes.github.io/minimal-mistakes/docs/configuration/
-
-[Bug]: Can't serve and build pages with ruby 3.2 · Issue #9231 · jekyll/jekyll (github.com)
-Jekyll Run - Visual Studio Marketplace
-Quickstart | Jekyll • Simple, blog-aware, static sites (jekyllrb.com)
-Setup | Jekyll • Simple, blog-aware, static sites (jekyllrb.com)
-
-
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
